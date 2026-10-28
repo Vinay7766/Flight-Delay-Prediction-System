@@ -29,7 +29,7 @@ A cluster-computing project (INT315) that analyses U.S. airline on-time data and
 ## ⚙️ Run the app locally
 
 ```bash
-git clone https://github.com/<your-username>/Flight-Delay-Prediction-System.git
+git clone https://github.com/Vinay7766/Flight-Delay-Prediction-System.git
 cd Flight-Delay-Prediction-System
 python -m venv venv
 venv\Scripts\activate        # Mac/Linux: source venv/bin/activate
