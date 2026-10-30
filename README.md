@@ -46,11 +46,7 @@ The app opens at http://localhost:8501. `model_export.json` is included, so ther
 3. Run `Spark_Flight_Delay_Notebook.ipynb` top to bottom. The last cell rewrites `model_export.json`.
 4. Make sure the jar in the notebook matches your Scala version (`_2.12` or `_2.13`).
 
-## 🌐 Get a live link (free)
-
-1. Push this folder to a public GitHub repo.
-2. Go to https://share.streamlit.io, sign in with GitHub and choose **New app**.
-3. Pick the repo, branch `main` and main file `app.py`, then deploy. You get a public `*.streamlit.app` link.
+## 🌐 Live link :- https://flight-delay-prediction-system-nawmm8f9f2dfafjrkrlfqr.streamlit.app/
 
 ## 📂 Project Structure
 
